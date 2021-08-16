@@ -4,7 +4,11 @@
   "main": "index.js",
   "author": "Chris Nguyen <ductuan1999@gmail.com>",
   "license": "MIT",
+  "scripts": {
+    "start": "ts-node src/index.ts"
+  },
   "dependencies": {
+    "@types/node": "^16.6.1",
     "axios": "^0.21.1",
     "cheerio": "^1.0.0-rc.10",
     "ts-node": "^10.2.0",
