@@ -11,6 +11,8 @@
     "@types/node": "^16.6.1",
     "axios": "^0.21.1",
     "cheerio": "^1.0.0-rc.10",
+    "dotenv": "^10.0.0",
+    "mongoose": "^6.0.4",
     "ts-node": "^10.2.0",
     "typescript": "^4.3.5"
   }
